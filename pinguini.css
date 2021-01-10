@@ -1,0 +1,55 @@
+html, body {
+	margin: 10px;
+	padding: 0;
+	background-color: #bebebe;
+	line-height: 20px;
+}
+h1 {
+	text-align: center;
+	color: #ff0000;
+	font-family: "Times New Roman", Geneva, Arial, "Raleway", serif;
+	font-size: 30px;
+	background-color: lightblue;
+}
+h3 {
+	font-size: 25px;
+	font-family: Arial;
+	font-weight: 700;
+	line-height: 1.4em;
+	margin-top: 5px;
+	background-color: hsla(60, 70%, 50%, 1);
+text-align: center;
+		
+}
+p {
+	width: 95%;
+	margin: -30px auto 30px auto;
+  font-family: Raleway, Georgia, cambira, "Times New Roman", Times, serif;
+	font-size: 0.95em;
+	letter-spacing: -0.03px;
+	line-height: 1.45;
+}
+p::first-letter {
+	font-family: "Times New Roman", "Lucida Grande", "Lucida Sans", Geneva,Arial,sans-serif;
+	font-size: 30px;
+}
+a:hover {
+	color: red;
+}
+img {
+	width: 40%;
+	height: auto;
+position: relative;
+	left: 180px;	 
+	border-radius: 20px;
+}
+img:hover {
+		border: 0.5px solid;
+	border-color: lightblue;
+}
+body {
+	background: url('LJwBdJ9.jpg') no-repeat center center fixed;
+}
+img {
+  
+}
